@@ -2,6 +2,6 @@
   "repositoryName": "sattva",
   "adapter": "@slicemachine/adapter-next",
   "libraries": ["./src/slices"],
-  "localSliceSimulatorURL": "http://localhost:3000/slice-simulator",
+  "localSliceSimulatorURL": "https://your-vercel-domain.vercel.app/slice-simulator",
   "apiEndpoint": ""
 }

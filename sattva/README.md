@@ -102,7 +102,7 @@ For the official Prismic documentation, see [Prismic's guide for Next.js][prismi
 ## License
 
 ```
-Copyright 2013-2022 Prismic <contact@prismic.io> (https://prismic.io)
+Copyright 2013-2024 Prismic <contact@prismic.io> (https://prismic.io)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
